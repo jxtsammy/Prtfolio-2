@@ -1,0 +1,118 @@
+.items{
+    width: 90%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    left: 55px;
+    font-size: 30px;
+    bottom: 15%;
+    cursor: default;
+}
+
+
+.items h2{
+    font-size: 30px;
+    margin-top: 20%;
+    
+}
+
+
+.con1{
+    width: 300%;
+    max-width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    background:white;
+    color: black;
+    transition: 0.5s ease;
+    margin-right:50px;
+    padding: 35px;
+    text-align: center;
+}
+
+.items .con1:hover{
+    transform: scale(1.09);
+}
+
+.con2{
+    width: 300%;
+    max-width: 300px;
+    height: 200px;
+    border-radius: 25px;
+    background:white;
+    color: black;
+    transition: 0.5s ease;
+    padding: 35px;
+    text-align: center;
+    margin-right:50px;
+
+}
+
+.items .con2:hover{
+    transform: scale(1.09);
+}
+
+.con3{
+    width: 300%;
+    max-width: 300px;
+    height: 200px;
+    border-radius: 25px;
+    background:white;
+    color: black;
+    transition: 0.5s ease;
+    padding: 35px;
+    text-align: center;
+    margin-right:50px;
+
+}
+
+.items .con3:hover{
+    transform: scale(1.09);
+}
+
+.con4{
+    width: 300%;
+    max-width: 500px;
+    height: 200px;
+    border-radius: 25px;
+    transition: 0.5s ease;
+    padding: 30px;
+    background:white;
+    color: black;
+    text-align: center;
+}
+
+.items .con4:hover{
+    transform: scale(1.09);
+}
+.items i{
+    font-size: 50px;
+}
+
+.items a{
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+    background: crimson;
+    color: white;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: 0.3s ease;
+    margin-top: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.items p{
+    font-size: 16px;
+}
+
+i{
+    color: black;
+}
+

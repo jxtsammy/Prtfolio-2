@@ -1,0 +1,23 @@
+
+.cont{
+    text-align: center;
+    line-height: 5px;
+    font-style: normal;
+    padding: 120px;
+}
+
+.cont h1{
+    font-size: 150px;
+    font-weight: 600;
+    color: crimson;
+}
+
+.cont p{
+    font-size: 40px;
+}
+
+.cont a{
+    font-size: 24px;
+    color: crimson;
+}
+
